@@ -1,0 +1,4 @@
+model,accuracy_mean,accuracy_std,precision_mean,precision_std,recall_mean,recall_std,f1_mean,f1_std
+DT,0.978,0.0113,0.9789,0.011,0.978,0.0114,0.978,0.0113
+RF,0.9946,0.0056,0.9949,0.0053,0.9947,0.0056,0.9946,0.0056
+XGB,0.9982,0.0027,0.9983,0.0026,0.9982,0.0027,0.9982,0.0027

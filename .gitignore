@@ -11,3 +11,8 @@ data/processed/*.csv
 .env
 .DS_Store
 Thumbs.db
+
+
+# data is too big for git (share it via Drive instead)
+data/
+*.pkl
