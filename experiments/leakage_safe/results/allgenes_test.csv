@@ -1,0 +1,4 @@
+model,n_genes,accuracy,balanced_accuracy,precision_macro,recall_macro,f1_macro
+DT,44570,0.98,0.9829,0.9813,0.9829,0.982
+RF,44570,1.0,1.0,1.0,1.0,1.0
+XGB,44570,1.0,1.0,1.0,1.0,1.0
